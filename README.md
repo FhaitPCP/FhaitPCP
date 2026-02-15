@@ -36,6 +36,14 @@ Busco aprender novas habilidades e aperfeiçoar as que já possuo para crescer e
   <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </div>
 
+### 🎓 Projetos Acadêmicos
+
+| Projeto | Tecnologias | Descrição |
+| :--- | :---: | :--- |
+| [**Ponto Certo**](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti3-9577100-pontocerto) | ![Java](https://img.shields.io/badge/-Java-ED8B00) ![Spring](https://img.shields.io/badge/-Spring-6DB33F) ![Docker](https://img.shields.io/badge/-Docker-2496ED) <br> ![HTML](https://img.shields.io/badge/-HTML-E34F26) ![CSS](https://img.shields.io/badge/-CSS-1572B6) ![JS](https://img.shields.io/badge/-JS-F7DF1E) | Solução tecnológica completa (Backend/Frontend) desenvolvida na disciplina de Trabalho Interdisciplinar III. |
+| [**Condomínio Inteligente**](https://github.com/FhaitPCP/pmg-es-2024-2-ti2-3740100-c-i-t-condominio-inteligente) | ![Java](https://img.shields.io/badge/-Java-ED8B00) ![Spring](https://img.shields.io/badge/-Spring-6DB33F) ![Docker](https://img.shields.io/badge/-Docker-2496ED) <br> ![HTML](https://img.shields.io/badge/-HTML-E34F26) ![CSS](https://img.shields.io/badge/-CSS-1572B6) ![JS](https://img.shields.io/badge/-JS-F7DF1E) | Sistema de gestão para condomínios, focado em automação e controle administrativo. |
+| [**Organização de Tempo**](https://github.com/FhaitPCP/pmg-es-2024-1-ti1-2401100-g2-ma-organizacao-de-tempo-1) | ![HTML](https://img.shields.io/badge/-HTML-E34F26) ![CSS](https://img.shields.io/badge/-CSS-1572B6) ![JS](https://img.shields.io/badge/-JS-F7DF1E) | Ferramenta Web responsiva para auxiliar na gestão de produtividade e organização pessoal. |
+
 ---
 
 <div id="-english"></div>
@@ -65,3 +73,10 @@ I am constantly seeking to learn new skills and refine my existing ones to grow 
   <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </div>
 
+### 🎓 Academic Projects
+
+| Project | Stack | Description |
+| :--- | :---: | :--- |
+| [**Ponto Certo**](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti3-9577100-pontocerto) | ![Java](https://img.shields.io/badge/-Java-ED8B00) ![Spring](https://img.shields.io/badge/-Spring-6DB33F) ![Docker](https://img.shields.io/badge/-Docker-2496ED) <br> ![HTML](https://img.shields.io/badge/-HTML-E34F26) ![CSS](https://img.shields.io/badge/-CSS-1572B6) ![JS](https://img.shields.io/badge/-JS-F7DF1E) | Full-stack tech solution developed for the Interdisciplinary Work III course. |
+| [**Smart Condominium**](https://github.com/FhaitPCP/pmg-es-2024-2-ti2-3740100-c-i-t-condominio-inteligente) | ![Java](https://img.shields.io/badge/-Java-ED8B00) ![Spring](https://img.shields.io/badge/-Spring-6DB33F) ![Docker](https://img.shields.io/badge/-Docker-2496ED) <br> ![HTML](https://img.shields.io/badge/-HTML-E34F26) ![CSS](https://img.shields.io/badge/-CSS-1572B6) ![JS](https://img.shields.io/badge/-JS-F7DF1E) | Management system for condominiums, focused on automation and administrative control. |
+| [**Time Organization**](https://github.com/FhaitPCP/pmg-es-2024-1-ti1-2401100-g2-ma-organizacao-de-tempo-1) | ![HTML](https://img.shields.io/badge/-HTML-E34F26) ![CSS](https://img.shields.io/badge/-CSS-1572B6) ![JS](https://img.shields.io/badge/-JS-F7DF1E) | Responsive Web tool developed to assist with productivity management and personal organization. |
