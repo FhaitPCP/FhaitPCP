@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hello, i'm João Victor! 😁
+### EN
+I am currently a Software Engineering student at PUC Minas, focusing on **Data Analysis**, **Back-end Programming**, and with knowledge in **Mobile Programming**. I seek to learn new skills and improve the ones I already have in order to grow and become a competent and efficient professional.
+### PT-BR
+Atualmente, sou estudante de Engenharia de Software na PUC Minas, sendo focado em **Analise de dados**, **programação Back-end** e com conhecimento em **programação Mobile**.
+Busco aprender novas habilidades e aperfeiçoar as que já possuo para crescer e me tornar um profissional competente e eficiente. 
 
 <!--
 **FhaitPCP/FhaitPCP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
